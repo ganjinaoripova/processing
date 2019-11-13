@@ -99,7 +99,7 @@ void keyPressed() {
   if (key == CODED) {
     if (keyCode == UP) { //pressing the up arrow changes red
       print("begin- ");
-      ]
+    }
         red = int(random(0, 170));
     }
     //fill(red, blue, green,100);
@@ -110,4 +110,4 @@ void keyPressed() {
       opacity+=15;
     }
   }
-}
+
