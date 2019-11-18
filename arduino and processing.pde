@@ -55,7 +55,7 @@ void update(){
     fill(220, 199, 0);
   }
   
-  else if (inByte =='n'){ //this series of if conditions is to ensure that the ball will fall when it's at the top after I set the yspeed to 0 in collision
+  else if (inByte =='n'){ //go at 6 if it's stopped or at 2
     if (xSpeed ==0 || xSpeed == 2){
       if (x<=cL/2){
         xSpeed = 6;
@@ -69,7 +69,7 @@ void update(){
 void end(){
   
   
-  if ((x<cL/2)||(x>width-cL/2)){ // if the car reaches the end of the canvass, it'll go back to the beginning
+  if ((x<cL/2)||(x>width-cL/2)){ // if the car reaches the end of the canvass, it'll stop
      xSpeed = 0;
   }
 }
