@@ -1,4 +1,4 @@
-**Intro to Interactive Media Final Project Proposal.**
+##Intro to Interactive Media Final Project Proposal.##
 
 Idea: 
 To make a game of battleships. The setup will include a screen for each player and a manual set up on which they can place battleships.
