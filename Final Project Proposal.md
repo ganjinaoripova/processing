@@ -21,7 +21,8 @@ Creates a grid for battleships to be placed. You can arrange your ships using th
 
 #### Areas of greatest concern:
 -	Matching the photoresistors on the manual set up to the grid on the processing screen. I think I’ll have to link them to each other individually.
--	Getting Processing to talk to two arduinos. 
+-	Getting Processing to talk to two arduinos. (maybe use a different type of arduino?)
+- Figuring out how to have two screens connected to the same arduino
 
 
 
