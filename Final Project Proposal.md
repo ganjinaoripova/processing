@@ -27,7 +27,8 @@ Creates a grid for battleships to be placed. You can arrange your ships using th
 
 **- to clarify-**
 either have one screen and one arduino for each player- same program runs on both, but they can't interact with each other.
-- or have one arduino (with enough pins to connect to photosensors from both players.) The problem here is, I don't think you can connect two screens to one arduino?
+- or have one arduino (with enough pins to connect to photosensors from both players.) The problem here is, I don't think you can connect two screens to one arduino? Also each screen only shows the player's own ships. so I guess it doesn't make sense to connect them both to the same arduino?
+
 
 
 
