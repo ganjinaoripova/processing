@@ -24,4 +24,4 @@ The players take turns placing a red token on a transparent screen; the position
 ## Feedback 
 The game was pretty straightforward, so the rules were not difficult to understand, but I did have to explain them first. People seemed to like the idea of the tokens, but it was sort of difficult to place them on the transparent grid in a certain position- so I decided to make the webcam window visible, just so people could see what they were doing, and what the webcam was tracking. 
 
-![ ](processing/final project/1.jpg)
+![ ](1.jpg)
