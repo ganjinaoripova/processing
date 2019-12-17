@@ -16,6 +16,8 @@ The players take turns placing a red token on a transparent screen; the position
 
 ![ ](5.jpg)
 
+![ ](6.jpg)
+
 
 ## List of parts (not in the kit):
 1.	Extra monitor
