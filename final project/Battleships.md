@@ -6,7 +6,15 @@ The rules of the game are as follows:
 Each player chooses the arrangement of their own ships on their respective screens. (Obviously neither of them knows the arrangement of the other’s ships)
 The players take turns placing a red token on a transparent screen; the position of the token is tracked and matched to the opponent’s grid. If the position of the token matches that of a ship, it’s a hit. A green LED blinks. If not, it’s a miss, and a yellow LED blinks.
 
-![](path/to/image.png)
+![ ](1.jpg)
+
+![ ](2.jpg)
+
+![ ](3.jpg)
+
+![ ](4.jpg)
+
+![ ](5.jpg)
 
 
 ## List of parts (not in the kit):
@@ -24,4 +32,4 @@ The players take turns placing a red token on a transparent screen; the position
 ## Feedback 
 The game was pretty straightforward, so the rules were not difficult to understand, but I did have to explain them first. People seemed to like the idea of the tokens, but it was sort of difficult to place them on the transparent grid in a certain position- so I decided to make the webcam window visible, just so people could see what they were doing, and what the webcam was tracking. 
 
-![ ](1.jpg)
+
